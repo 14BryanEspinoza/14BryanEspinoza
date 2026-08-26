@@ -12,11 +12,11 @@
 
 ## Sobre mí
 
-**Front-end developer** enfocado en **React, Astro y Next.js**. Construyo UIs accesibles (WCAG AA), performantes (Core Web Vitals < 2.5s LCP) y mantenibles con **arquitectura hexagonal + atomic design**.
+Front-end developer especializado en el **ecosistema JavaScript**, creando aplicaciones web **accesibles**, **responsivas** y de alto rendimiento.
 
-Uso **asistentes AI (opencode, agent-stack propio)** para: scaffolding con reglas de arquitectura, code review automatizado, y generación de tests. No "copio-y-pego": dirijo, valido, itero.
+Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia artificial para aumentar mi productividad, optimizar flujos de trabajo y mejorar la calidad del código.
 
-**Full Stack en producción**: Node/Express + PostgreSQL + Docker + CI/CD en Vercel/Cloudflare. Proyecto real: [agent-stack](https://github.com/14BryanEspinoza/agent-stack)
+**Full Stack** es mi próximo objetivo — expandiendo hacia backend, bases de datos y despliegue para construir soluciones completas y escalables.
 
 ---
 
@@ -156,5 +156,3 @@ Contrato de consumo (5 pasos): Registro → Análisis de stack → Match selecti
 <p align="center">
   <strong><code>Programa no para resolver problemas, sino para crear soluciones</code></strong>
 </p>
-
-[![committers.top badge](https://user-badge.committers.top/nicaragua/14BryanEspinoza.svg)](https://user-badge.committers.top/nicaragua/14BryanEspinoza)
