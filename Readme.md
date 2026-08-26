@@ -97,7 +97,7 @@ Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia ar
 
 ### frontend-skill — Biblioteca de conocimiento frontend para agentes IA
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-7aa2f7?style=flat&logo=markdown&logoColor=black" /> <img src="https://img.shields.io/badge/Git-f7768e?style=flat&logo=git&logoColor=black" /> <img src="https://img.shields.io/badge/opencode-000000?style=flat&logo=opencode&logoColor=white" /> <img src="https://img.shields.io/badge/gentle--ai-7AA2F7?style=flat&logo=gentleai&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-7aa2f7?style=flat&logo=markdown&logoColor=black" /> <img src="https://img.shields.io/badge/opencode-000000?style=flat&logo=opencode&logoColor=white" /> 
 
 **frontend-skill** es una **biblioteca de conocimiento** (no framework ni orquestador) que provee **30 skills técnicas** para agentes de IA: HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, TanStack Start, testing, seguridad, rendimiento, accesibilidad, API design, auth, state management, y más.
 
