@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e0af68?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-7dcfff?style=for-the-badge&logo=css&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-9ece6a?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 ---
 
 ## Sobre mí
 
-Front-end developer especializado en el **ecosistema JavaScript**, creando aplicaciones web **accesibles**, **responsivas** y de alto rendimiento.
+**Front-end developer** enfocado en **React, Astro y Next.js**. Construyo UIs accesibles (WCAG AA), performantes (Core Web Vitals < 2.5s LCP) y mantenibles con **arquitectura hexagonal + atomic design**.
 
-Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia artificial para aumentar mi productividad, optimizar flujos de trabajo y mejorar la calidad del código.
+Uso **asistentes AI (opencode, agent-stack propio)** para: scaffolding con reglas de arquitectura, code review automatizado, y generación de tests. No "copio-y-pego": dirijo, valido, itero.
 
-**Full Stack** es mi próximo objetivo — expandiendo hacia backend, bases de datos y despliegue para construir soluciones completas y escalables.
+**Full Stack en producción**: Node/Express + PostgreSQL + Docker + CI/CD en Vercel/Cloudflare. Proyecto real: [agent-stack](https://github.com/14BryanEspinoza/agent-stack)
 
 ---
 
@@ -27,6 +27,7 @@ Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia ar
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-9ece6a?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
 
@@ -37,6 +38,26 @@ Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia ar
 ![HTML5](https://img.shields.io/badge/HTML5-e0af68?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-7dcfff?style=for-the-badge&logo=css&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-7aa2f7?style=for-the-badge&logo=markdown&logoColor=black)
+
+</details>
+
+<details open>
+<summary>🎯 CSS Frameworks</summary>
+<br>
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details open>
+<summary>⚡ JavaScript Frameworks</summary>
+<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </details>
 
@@ -55,9 +76,18 @@ Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia ar
 
 > - Architecture-First
 > - Mobile First
-> - BEM
 > - WCAG AA
 > - Atomic Commits
+> - **Component-Driven Development** (Atomic Design)
+> - **Type-Driven Development** (TypeScript strict)
+> - **Utility-First CSS** (TailwindCSS)
+> - **Islands Architecture** (Astro)
+> - **Server Components / RSC** (Next.js 13+, React 18)
+> - **File-based Routing** (Next.js, Astro)
+> - **Static Generation + ISR** (Next.js, Astro)
+> - **Zero-JS / Partial Hydration** (Astro)
+> - **Testing Library / RTL** (React)
+> - **Edge Runtime** (Next.js, Astro)
 
 </details>
 
@@ -65,45 +95,41 @@ Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia ar
 
 ## Proyectos
 
-### agent-stack — Skills para asistentes AI de codificación
+### frontend-skill — Biblioteca de conocimiento frontend para agentes IA
 
-<img src="https://img.shields.io/badge/Markdown-7aa2f7?style=flat&logo=markdown&logoColor=black" /> <img src="https://img.shields.io/badge/Git-f7768e?style=flat&logo=git&logoColor=black" /> <img src="https://img.shields.io/badge/opencode-000000?style=flat&logo=opencode&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-7aa2f7?style=flat&logo=markdown&logoColor=black" /> <img src="https://img.shields.io/badge/Git-f7768e?style=flat&logo=git&logoColor=black" /> <img src="https://img.shields.io/badge/opencode-000000?style=flat&logo=opencode&logoColor=white" /> <img src="https://img.shields.io/badge/gentle--ai-7AA2F7?style=flat&logo=gentleai&logoColor=white" />
 
-Conjunto de skills y reglas para **opencode** que definen cómo un asistente AI de codificación debe pensar, detectar stacks, decidir arquitectura y ejecutar en proyectos frontend.
+**frontend-skill** es una **biblioteca de conocimiento** (no framework ni orquestador) que provee **30 skills técnicas** para agentes de IA: HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, TanStack Start, testing, seguridad, rendimiento, accesibilidad, API design, auth, state management, y más.
 
-- Arquitectura-First y eficiencia de tokens
-- Auto-detección de stack y frameworks
-- Reglas de HTML semántico, CSS moderno, JavaScript vanilla
-- Git workflow con Conventional Commits y Git Flow
-- Despliegue automatizado (GitHub Pages, Vercel, Netlify)
-- Documentación como código
+Arquitectura de tres roles:
+- **Orquestador (gentle-ai)**: detecta stack, selecciona e inyecta skills
+- **Biblioteca (frontend-skill)**: provee reglas + detector `scripts/detect-stack.sh` + registro `.atl/skill-registry.md`
+- **Ejecutor (agentes delegados)**: lee SOLO skills inyectadas, implementa, reporta `skill_resolution`
 
-🔗 [**Ver repositorio**](https://github.com/14BryanEspinoza/agent-stack)
+Qué resuelve:
+- **Anti-alucinación** — reglas estrictas: no inventar APIs, no asumir deps, no modificar sin leer
+- **Token efficiency** — respuestas compactas, referenciar código no copiarlo
+- **Architecture-first** — pensar estructura, componentes, datos, estado antes de código
+- **Stack detection** — clasifica 9 tipos de proyecto + monorepo + unknown
+- **Single source of truth** — registro generado, no editado a mano
+
+Contrato de consumo (5 pasos): Registro → Análisis de stack → Match selectivo → Inyección → Lectura obligatoria antes de tocar código.
+
+🔗 [**Ver repositorio**](https://github.com/14BryanEspinoza/frontend-skill)
 
 ---
-
-### landing-page — Portfolio Personal Junior
-
-<img src="https://img.shields.io/badge/HTML5-e0af68?style=flat&logo=html5&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-7dcfff?style=flat&logo=css&logoColor=black" /> <img src="https://img.shields.io/badge/Git-f7768e?style=flat&logo=git&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub%20Pages-7aa2f7?style=flat&logo=githubpages&logoColor=black" />
-
-Portfolio personal como web developer, con tema Tokyo Night y tipografía JetBrains Mono. Mi carta de presentación profesional con enfoque mobile-first.
-
-- **CSS @layers** — organización modular en 10 capas
-- **Sin JavaScript** — acordeones con `<details>` / `<summary>`, cero dependencias
-- **Diseño mobile-first** — optimizado para móvil, tablet y desktop
-- **Accesibilidad** — skip link, `:focus-visible`, `prefers-reduced-motion`
-- **SEO** — Open Graph, Twitter Cards, canonical
-
-🔗 [**Ver repositorio**](https://github.com/14BryanEspinoza/landing-page) &nbsp;|&nbsp; 🌐 [**Live demo**](https://14bryanespinoza.github.io/landing-page/)
-
-<p align="center">
-  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
-</p>
 
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+  <a href="https://user-badge.committers.top/nicaragua/14BryanEspinoza">
+    <img src="https://user-badge.committers.top/nicaragua/14BryanEspinoza.svg" alt="committers.top Nicaragua ranking" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14BryanEspinoza&theme=tokyonight&hide_border=true&layout=compact&count_private=true" width="48%" alt="Top Languages" />
 </p>
 
 ## Contacto
@@ -113,9 +139,14 @@ Portfolio personal como web developer, con tema Tokyo Night y tipografía JetBra
 </p>
 
 <p align="center">
-  <a href="mailto:14BryEspinoza@gmail.com"><img src="https://img.shields.io/badge/Email-14BryEspinoza@gmail.com-7aa2f7?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:14BryEspinoza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/14bryanes"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/14bryanes"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://facebook.com/14bryanes"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <strong><code>Programa no para resolver problemas, sino para crear soluciones</code></strong>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/nicaragua/14BryanEspinoza.svg)](https://user-badge.committers.top/nicaragua/14BryanEspinoza)
