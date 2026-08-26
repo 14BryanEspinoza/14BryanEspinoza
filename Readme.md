@@ -103,17 +103,7 @@ Portfolio personal como web developer, con tema Tokyo Night y tipografía JetBra
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=14BryanEspinoza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats de 14BryanEspinoza"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14BryanEspinoza&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="Lenguajes más utilizados por 14BryanEspinoza"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="150" alt="Racha de contribuciones de 14BryanEspinoza"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=14BryanEspinoza&theme=tokyonight&no-frame=true&no-bg=false&column=7" height="150" alt="Logros de 14BryanEspinoza en GitHub"/>
+  <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
 
 ## Contacto
